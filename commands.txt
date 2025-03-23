@@ -1,0 +1,3 @@
+git config --global user.name "Sudhakar"
+git config --global user.email m.k.sudhakar@gmail.com
+git init
