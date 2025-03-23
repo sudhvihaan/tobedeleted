@@ -30,6 +30,10 @@ git ls-files
 Steps : 
 1) If you want to delete a file - rm command.txt
 2) git ls-files
-3) 
+3) git add .
+4) git commit -m 
+5) git push -u origin main
 
 
+Pull request
+1) 
